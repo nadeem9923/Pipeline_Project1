@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo /usr/bin/touch Project1
+/usr/bin/touch Project1
