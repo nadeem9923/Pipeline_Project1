@@ -1,3 +1,3 @@
 #!/bin/bash
 
-yum install mlocate -y
+sudo yum install mlocate -y
