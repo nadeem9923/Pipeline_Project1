@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo yum install mlocate -y
+touch Project1
