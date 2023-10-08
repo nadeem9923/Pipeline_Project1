@@ -1,0 +1,22 @@
+Requirement: Commiting changes in Nagios plugins from Github should be autodeployed on Nagios server.
+
+
+Setup:
+
+Create 1st EC2 as server1
+   -- Install NagiosXI on it
+   -- Install Jenkins on it
+Create 2nd EC2 as server2
+   -- Install Ansible on it.
+   
+Establish SSH connectivity between Jenkins and Ansible Server
+
+On Jenkins create pipeline and integrate GitHub, Ansible
+Create webhook in GitHub and itegrate it with Jenkins for auto-run Jenkins Jobs.
+
+
+Thanks!!!
+Nadeem S
++919923686962
+   
+
