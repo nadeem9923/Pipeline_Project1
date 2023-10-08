@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/bin/touch Project2
+echo -e "df -HT"
